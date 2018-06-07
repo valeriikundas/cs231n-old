@@ -1,0 +1,9 @@
+*.zip
+lectures
+*.swp
+*.pyc
+.env/*
+__pycache__
+_gitignore
+.ipynb_checkpoints
+cifar-10-batches-py
